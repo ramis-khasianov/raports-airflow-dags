@@ -10,7 +10,7 @@ from datetime import datetime
 DAG_ID = 'sample_xcoms_and_branching'
 
 default_args = {
-    'start_date': datetime(2020, 1, 1)
+    'start_date': datetime(2023, 1, 1)
 }
 
 
